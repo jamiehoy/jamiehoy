@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jamiehoy
+- 👋 Hi, I’m @jamiehoy - "There is a solution to every problem"
 - 👀 I’m interested in Python, LISP, Node.js, Lua, C, etc...
 - 🌱 I’m currently learning Lua, Tkinter
 - 💞️ I’m looking to collaborate on WoW Addons, Python projects
