@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jamiehoy - "There is a solution to every problem"
-- 👀 I’m interested in Python, LISP, Node.js, Lua, C, etc...
-- 🌱 I’m currently learning Lua, Tkinter
-- 💞️ I’m looking to collaborate on WoW Addons, Python projects
+- 👀 I’m interested in Python/Django, PHP/HTML/CSS/JS etc...
+- 🌱 I’m currently learning Django, Lua
+- 💞️ I’m looking to collaborate on WoW Addons, Python/Django projects
 - 📫 How to reach me zelgados@icloud.com
 
 <!---
