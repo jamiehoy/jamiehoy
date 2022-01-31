@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jamiehoy - "There is a solution to every problem"
+- 👋 Hi, I’m @jamiehoy - "There is a solution to every problem" (And no problem should have to be solved twice)
 - 👀 I’m interested in Python/Django, PHP/HTML/CSS/JS etc...
 - 🌱 I’m currently learning Django, Lua
 - 💞️ I’m looking to collaborate on WoW Addons, Python/Django projects
