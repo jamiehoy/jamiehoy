@@ -2,7 +2,6 @@
 - 👀 I’m interested in iOS/Android, Python/Django, PHP/HTML/CSS/JS etc...
 - 🌱 I’m currently learning Kotlin, Swift, Django, Lua
 - 💞️ I’m looking to collaborate on Apps, WoW Addons, Python/Django projects
-- 📫 How to reach me zelgados@icloud.com
 - 👋 Hi, I’m @jamiehoy - "There is a solution to every problem" 
 
 <!---
