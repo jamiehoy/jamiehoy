@@ -1,4 +1,4 @@
-- Hi, I’m @jamiehoy 
+- Hi, I’m @jamiehoy
 
 <!---
 jamiehoy/jamiehoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
