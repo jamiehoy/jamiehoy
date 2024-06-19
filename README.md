@@ -1,4 +1,4 @@
-- Hi, I’m @jamiehoy. Currently learning iOS app development. 
+- Hi, I’m @jamiehoy. Currently doing iOS app development. 
 
 <!---
 jamiehoy/jamiehoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
